@@ -1,0 +1,2493 @@
+﻿Comp TIA Security Plus 501 Acronyms
+
+<silence msec="1000"/>
+
+3 D.E.S.
+
+<silence msec="1000"/>
+
+Triple Digital Encryption Standard
+
+<silence msec="1000"/>
+
+A.A.A.
+
+<silence msec="1000"/>
+
+Authentication, Authorization, and Accounting
+
+<silence msec="1000"/>
+
+A.B.A.C.
+
+<silence msec="1000"/>
+
+Attribute based Access Control
+
+<silence msec="1000"/>
+
+A.C.L.
+
+<silence msec="1000"/>
+
+Access Control List
+
+<silence msec="1000"/>
+
+A.E.S.
+
+<silence msec="1000"/>
+
+Advanced Encryption Standard
+
+<silence msec="1000"/>
+
+A.E.S. 256
+
+<silence msec="1000"/>
+
+Advanced Encryption Standards 256bit
+
+<silence msec="1000"/>
+
+A.H.
+
+<silence msec="1000"/>
+
+Authentication Header
+
+<silence msec="1000"/>
+
+A.L.E.
+
+<silence msec="1000"/>
+
+Annualized Loss Expectancy
+
+<silence msec="1000"/>
+
+A.P.
+
+<silence msec="1000"/>
+
+Access Point
+
+<silence msec="1000"/>
+
+A.P.I.
+
+<silence msec="1000"/>
+
+Application Programming Interface
+
+<silence msec="1000"/>
+
+A.P.T.
+
+<silence msec="1000"/>
+
+Advanced Persistent Threat
+
+<silence msec="1000"/>
+
+A.R.O.
+
+<silence msec="1000"/>
+
+Annualized Rate of Occurrence
+
+<silence msec="1000"/>
+
+A.R.P.
+
+<silence msec="1000"/>
+
+Address Resolution Protocol
+
+<silence msec="1000"/>
+
+A.S.L.R.
+
+<silence msec="1000"/>
+
+Address Space Layout Randomization
+
+<silence msec="1000"/>
+
+A.S.P.
+
+<silence msec="1000"/>
+
+Application Service Provider
+
+<silence msec="1000"/>
+
+A.U.P.
+
+<silence msec="1000"/>
+
+Acceptable Use Policy
+
+<silence msec="1000"/>
+
+A.V.
+
+<silence msec="1000"/>
+
+Antivirus
+
+<silence msec="1000"/>
+
+A.V.
+
+<silence msec="1000"/>
+
+Asset Value
+
+<silence msec="1000"/>
+
+B.A.C.
+
+<silence msec="1000"/>
+
+Business Availability Center
+
+<silence msec="1000"/>
+
+B.C.P.
+
+<silence msec="1000"/>
+
+Business Continuity Planning
+
+<silence msec="1000"/>
+
+B.I.A.
+
+<silence msec="1000"/>
+
+Business Impact Analysis
+
+<silence msec="1000"/>
+
+Bios
+
+<silence msec="1000"/>
+
+Basic Input and Output System
+
+<silence msec="1000"/>
+
+B.P.A.
+
+<silence msec="1000"/>
+
+Business Partners Agreement
+
+<silence msec="1000"/>
+
+B.P.D.U.
+
+<silence msec="1000"/>
+
+Bridge Protocol Data Unit
+
+<silence msec="1000"/>
+
+B.Y.O.D.
+
+<silence msec="1000"/>
+
+Bring Your Own Device
+
+<silence msec="1000"/>
+
+C.A.
+
+<silence msec="1000"/>
+
+Certificate Authority
+
+<silence msec="1000"/>
+
+Cac
+
+<silence msec="1000"/>
+
+Common Access Card
+
+<silence msec="1000"/>
+
+Can
+
+<silence msec="1000"/>
+
+Controller Area Network
+
+<silence msec="1000"/>
+
+Captcha
+
+<silence msec="1000"/>
+
+Completely Automated Public Turing Test to Tell Computers and Humans Apart
+
+<silence msec="1000"/>
+
+C.A.R.
+
+<silence msec="1000"/>
+
+Corrective Action Report
+
+<silence msec="1000"/>
+
+C.B.C.
+
+<silence msec="1000"/>
+
+Cipher Block Chaining
+
+<silence msec="1000"/>
+
+C.C.M.P.
+
+<silence msec="1000"/>
+
+Counter Mode and CBC Mac Protocol
+
+<silence msec="1000"/>
+
+C.C.T.V.
+
+<silence msec="1000"/>
+
+Closed circuit Television
+
+<silence msec="1000"/>
+
+C.E.R.
+
+<silence msec="1000"/>
+
+Certificate
+
+<silence msec="1000"/>
+
+C.E.R.
+
+<silence msec="1000"/>
+
+Cross over Error Rate
+
+<silence msec="1000"/>
+
+C.E.R.T.
+
+<silence msec="1000"/>
+
+Computer Emergency Response Team
+
+<silence msec="1000"/>
+
+C.F.B.
+
+<silence msec="1000"/>
+
+Cipher Feedback
+
+<silence msec="1000"/>
+
+Chap
+
+<silence msec="1000"/>
+
+Challenge Handshake Authentication Protocol
+
+<silence msec="1000"/>
+
+C.I.O.
+
+<silence msec="1000"/>
+
+Chief Information Officer
+
+<silence msec="1000"/>
+
+C.I.R.T.
+
+<silence msec="1000"/>
+
+Computer Incident Response Team
+
+<silence msec="1000"/>
+
+C.M.S.
+
+<silence msec="1000"/>
+
+Content Management System
+
+<silence msec="1000"/>
+
+Coop
+
+<silence msec="1000"/>
+
+Continuity of Operations Plan
+
+<silence msec="1000"/>
+
+Cope
+
+<silence msec="1000"/>
+
+Corporate Owned, Personally Enabled
+
+<silence msec="1000"/>
+
+C.P.
+
+<silence msec="1000"/>
+
+Contingency Planning
+
+<silence msec="1000"/>
+
+C.R.C.
+
+<silence msec="1000"/>
+
+Cyclical Redundancy Check
+
+<silence msec="1000"/>
+
+C.R.L.
+
+<silence msec="1000"/>
+
+Certificate Revocation List
+
+<silence msec="1000"/>
+
+C. Sirt
+
+<silence msec="1000"/>
+
+Computer Security Incident Response Team
+
+<silence msec="1000"/>
+
+C.S.O.
+
+<silence msec="1000"/>
+
+Chief Security Officer
+
+<silence msec="1000"/>
+
+C.S.P.
+
+<silence msec="1000"/>
+
+Cloud Service Provider
+
+<silence msec="1000"/>
+
+C.S.R.
+
+<silence msec="1000"/>
+
+Certificate Signing Request
+
+<silence msec="1000"/>
+
+C.S.R.F.
+
+<silence msec="1000"/>
+
+Cross site Request Forgery
+
+<silence msec="1000"/>
+
+C.S.U.
+
+<silence msec="1000"/>
+
+Channel Service Unit
+
+<silence msec="1000"/>
+
+C.T.M.
+
+<silence msec="1000"/>
+
+Counter Mode
+
+<silence msec="1000"/>
+
+C.T.O.
+
+<silence msec="1000"/>
+
+Chief Technology Officer
+
+<silence msec="1000"/>
+
+C.T.R.
+
+<silence msec="1000"/>
+
+Counter
+
+<silence msec="1000"/>
+
+C.Y.O.D.
+
+<silence msec="1000"/>
+
+Choose Your Own Device
+
+<silence msec="1000"/>
+
+D.A.C.
+
+<silence msec="1000"/>
+
+Discretionary Access Control
+
+<silence msec="1000"/>
+
+D.B.A.
+
+<silence msec="1000"/>
+
+Database Administrator
+
+<silence msec="1000"/>
+
+D.D.o.S.
+
+<silence msec="1000"/>
+
+Distributed Denial of Service
+
+<silence msec="1000"/>
+
+D.E.P.
+
+<silence msec="1000"/>
+
+Data Execution Prevention
+
+<silence msec="1000"/>
+
+D.E.R.
+
+<silence msec="1000"/>
+
+Distinguished Encoding Rules
+
+<silence msec="1000"/>
+
+D.E.S.
+
+<silence msec="1000"/>
+
+Digital Encryption Standard
+
+<silence msec="1000"/>
+
+D.F.I.R.
+
+<silence msec="1000"/>
+
+Digital Forensics and Investigation Response
+
+<silence msec="1000"/>
+
+D.H.C.P.
+
+<silence msec="1000"/>
+
+Dynamic Host Configuration Protocol
+
+<silence msec="1000"/>
+
+D.H.E.
+
+<silence msec="1000"/>
+
+Data Handling Electronics
+
+<silence msec="1000"/>
+
+D.H.E.
+
+<silence msec="1000"/>
+
+Diffie Hellman Ephemeral
+
+<silence msec="1000"/>
+
+D.L.L.
+
+<silence msec="1000"/>
+
+Dynamic Link Library
+
+<silence msec="1000"/>
+
+D.L.P.
+
+<silence msec="1000"/>
+
+Data Loss Prevention
+
+<silence msec="1000"/>
+
+D.M.Z.
+
+<silence msec="1000"/>
+
+Demilitarized Zone
+
+<silence msec="1000"/>
+
+D.N.A.T.
+
+<silence msec="1000"/>
+
+Destination Network Address Transaction
+
+<silence msec="1000"/>
+
+D.N.S.
+
+<silence msec="1000"/>
+
+Domain Name Service (Server)
+
+<silence msec="1000"/>
+
+D.o.S.
+
+<silence msec="1000"/>
+
+Denial of Service
+
+<silence msec="1000"/>
+
+D.R.P.
+
+<silence msec="1000"/>
+
+Disaster Recovery Plan
+
+<silence msec="1000"/>
+
+D.S.A.
+
+<silence msec="1000"/>
+
+Digital Signature Algorithm
+
+<silence msec="1000"/>
+
+D.S.L.
+
+<silence msec="1000"/>
+
+Digital Subscriber Line
+
+<silence msec="1000"/>
+
+D.S.U.
+
+<silence msec="1000"/>
+
+Data Service Unit
+
+<silence msec="1000"/>
+
+E.A.P.
+
+<silence msec="1000"/>
+
+Extensible Authentication Protocol
+
+<silence msec="1000"/>
+
+E.C.B.
+
+<silence msec="1000"/>
+
+Electronic Code Book
+
+<silence msec="1000"/>
+
+E.C.C.
+
+<silence msec="1000"/>
+
+Elliptic Curve Cryptography
+
+<silence msec="1000"/>
+
+E.C.D.H.E.
+
+<silence msec="1000"/>
+
+Elliptic Curve Diffie Hellman Ephemeral
+
+<silence msec="1000"/>
+
+E.C.D.S.A.
+
+<silence msec="1000"/>
+
+Elliptic Curve Digital Signature Algorithm
+
+<silence msec="1000"/>
+
+E.F.S.
+
+<silence msec="1000"/>
+
+Encrypted File System
+
+<silence msec="1000"/>
+
+E.M.I.
+
+<silence msec="1000"/>
+
+Electromagnetic Interference
+
+<silence msec="1000"/>
+
+E.M.P.
+
+<silence msec="1000"/>
+
+Electro Magnetic Pulse
+
+<silence msec="1000"/>
+
+E.R.P.
+
+<silence msec="1000"/>
+
+Enterprise Resource Planning
+
+<silence msec="1000"/>
+
+E.S.N.
+
+<silence msec="1000"/>
+
+Electronic Serial Number
+
+<silence msec="1000"/>
+
+E.S.P.
+
+<silence msec="1000"/>
+
+Encapsulated Security Payload
+
+<silence msec="1000"/>
+
+E.F.
+
+<silence msec="1000"/>
+
+Exposure Factor
+
+<silence msec="1000"/>
+
+F.A.C.L.
+
+<silence msec="1000"/>
+
+File System Access Control List
+
+<silence msec="1000"/>
+
+F.A.R.
+
+<silence msec="1000"/>
+
+False Acceptance Rate
+
+<silence msec="1000"/>
+
+F.D.E.
+
+<silence msec="1000"/>
+
+Full Disk Encryption
+
+<silence msec="1000"/>
+
+F.R.R.
+
+<silence msec="1000"/>
+
+False Rejection Rate
+
+<silence msec="1000"/>
+
+F.T.P.
+
+<silence msec="1000"/>
+
+File Transfer Protocol
+
+<silence msec="1000"/>
+
+F.T.P.S.
+
+<silence msec="1000"/>
+
+Secured File Transfer Protocol
+
+<silence msec="1000"/>
+
+G.C.M.
+
+<silence msec="1000"/>
+
+Galois Counter Mode
+
+<silence msec="1000"/>
+
+G.P.G.
+
+<silence msec="1000"/>
+
+Gnu Privacy Guard
+
+<silence msec="1000"/>
+
+G.P.O.
+
+<silence msec="1000"/>
+
+Group Policy Object
+
+<silence msec="1000"/>
+
+G.P.S.
+
+<silence msec="1000"/>
+
+Global Positioning System
+
+<silence msec="1000"/>
+
+G.P.U.
+
+<silence msec="1000"/>
+
+Graphic Processing Unit
+
+<silence msec="1000"/>
+
+G.R.E.
+
+<silence msec="1000"/>
+
+Generic Routing Encapsulation
+
+<silence msec="1000"/>
+
+H.A.
+
+<silence msec="1000"/>
+
+High Availability
+
+<silence msec="1000"/>
+
+H.D.D.
+
+<silence msec="1000"/>
+
+Hard Disk Drive
+
+<silence msec="1000"/>
+
+Hids
+
+<silence msec="1000"/>
+
+Host based Intrusion Detection System
+
+<silence msec="1000"/>
+
+Hips
+
+<silence msec="1000"/>
+
+Host based Intrusion Prevention System
+
+<silence msec="1000"/>
+
+H.M.A.C.
+
+<silence msec="1000"/>
+
+Hashed Message Authentication Code
+
+<silence msec="1000"/>
+
+H.O.T.P.
+
+<silence msec="1000"/>
+
+HMAC based One Time Password
+
+<silence msec="1000"/>
+
+H.S.M.
+
+<silence msec="1000"/>
+
+Hardware Security Module
+
+<silence msec="1000"/>
+
+H.T.M.L.
+
+<silence msec="1000"/>
+
+Hypertext Markup Language
+
+<silence msec="1000"/>
+
+H.T.T.P.
+
+<silence msec="1000"/>
+
+Hypertext Transfer Protocol
+
+<silence msec="1000"/>
+
+H.T.T.P.S.
+
+<silence msec="1000"/>
+
+Hypertext Transfer Protocol over SSL TLS
+
+<silence msec="1000"/>
+
+H. Vac
+
+<silence msec="1000"/>
+
+Heating, Ventilation and Air Conditioning
+
+<silence msec="1000"/>
+
+I.a.a.S.
+
+<silence msec="1000"/>
+
+Infrastructure as a Service
+
+<silence msec="1000"/>
+
+I.C.M.P.
+
+<silence msec="1000"/>
+
+Internet Control Message Protocol
+
+<silence msec="1000"/>
+
+I.C.S.
+
+<silence msec="1000"/>
+
+Industrial Control Systems
+
+<silence msec="1000"/>
+
+I.D.
+
+<silence msec="1000"/>
+
+Identification
+
+<silence msec="1000"/>
+
+I.D.E.A.
+
+<silence msec="1000"/>
+
+International Data Encryption Algorithm
+
+<silence msec="1000"/>
+
+I.D.F.
+
+<silence msec="1000"/>
+
+Intermediate Distribution Frame
+
+<silence msec="1000"/>
+
+I.d.P.
+
+<silence msec="1000"/>
+
+Identity Provider
+
+<silence msec="1000"/>
+
+I.D.S.
+
+<silence msec="1000"/>
+
+Intrusion Detection System
+
+<silence msec="1000"/>
+
+I. Triple E.
+
+<silence msec="1000"/>
+
+Institute of Electrical and Electronic Engineers
+
+<silence msec="1000"/>
+
+I.I.S.
+
+<silence msec="1000"/>
+
+Internet Information System
+
+<silence msec="1000"/>
+
+I.K.E.
+
+<silence msec="1000"/>
+
+Internet Key Exchange
+
+<silence msec="1000"/>
+
+I.M.
+
+<silence msec="1000"/>
+
+Instant Messaging
+
+<silence msec="1000"/>
+
+I. Map 4
+
+<silence msec="1000"/>
+
+Internet Message Access Protocol v4
+
+<silence msec="1000"/>
+
+I.o.T.
+
+<silence msec="1000"/>
+
+Internet of Things
+
+<silence msec="1000"/>
+
+I.P.
+
+<silence msec="1000"/>
+
+Internet Protocol
+
+<silence msec="1000"/>
+
+I.P. Sec
+
+<silence msec="1000"/>
+
+Internet Protocol Security
+
+<silence msec="1000"/>
+
+I.R.
+
+<silence msec="1000"/>
+
+Incident Response
+
+<silence msec="1000"/>
+
+I.R.
+
+<silence msec="1000"/>
+
+Infrared
+
+<silence msec="1000"/>
+
+I.R.C.
+
+<silence msec="1000"/>
+
+Internet Relay Chat
+
+<silence msec="1000"/>
+
+I.R.P.
+
+<silence msec="1000"/>
+
+Incident Response Plan
+
+<silence msec="1000"/>
+
+I.S.A.
+
+<silence msec="1000"/>
+
+Interconnection Security Agreement
+
+<silence msec="1000"/>
+
+I.S.P.
+
+<silence msec="1000"/>
+
+Internet Service Provider
+
+<silence msec="1000"/>
+
+I.S.S.O.
+
+<silence msec="1000"/>
+
+Information Systems Security Officer
+
+<silence msec="1000"/>
+
+I.T.C.P.
+
+<silence msec="1000"/>
+
+IT Contingency Plan
+
+<silence msec="1000"/>
+
+I.V.
+
+<silence msec="1000"/>
+
+Initialization Vector
+
+<silence msec="1000"/>
+
+K.D.C.
+
+<silence msec="1000"/>
+
+Key Distribution Center
+
+<silence msec="1000"/>
+
+K.E.K.
+
+<silence msec="1000"/>
+
+Key Encryption Key
+
+<silence msec="1000"/>
+
+L. 2 T.P.
+
+<silence msec="1000"/>
+
+Layer 2 Tunneling Protocol
+
+<silence msec="1000"/>
+
+Lan
+
+<silence msec="1000"/>
+
+Local Area Network
+
+<silence msec="1000"/>
+
+L. DAP
+
+<silence msec="1000"/>
+
+Lightweight Directory Access Protocol
+
+<silence msec="1000"/>
+
+L.E.A.P.
+
+<silence msec="1000"/>
+
+Lightweight Extensible Authentication Protocol
+
+<silence msec="1000"/>
+
+M.a.a.S.
+
+<silence msec="1000"/>
+
+Monitoring as a Service
+
+<silence msec="1000"/>
+
+M.A.C.
+
+<silence msec="1000"/>
+
+Mandatory Access Control
+
+<silence msec="1000"/>
+
+MAC
+
+<silence msec="1000"/>
+
+Media Access Control
+
+<silence msec="1000"/>
+
+M.A.C.
+
+<silence msec="1000"/>
+
+Message Authentication Code
+
+<silence msec="1000"/>
+
+Man
+
+<silence msec="1000"/>
+
+Metropolitan Area Network
+
+<silence msec="1000"/>
+
+M.B.R.
+
+<silence msec="1000"/>
+
+Master Boot Record
+
+<silence msec="1000"/>
+
+M.D. 5
+
+<silence msec="1000"/>
+
+Message Digest 5
+
+<silence msec="1000"/>
+
+M.D.F.
+
+<silence msec="1000"/>
+
+Main Distribution Frame
+
+<silence msec="1000"/>
+
+M.D.M.
+
+<silence msec="1000"/>
+
+Mobile Device Management
+
+<silence msec="1000"/>
+
+M.F.A.
+
+<silence msec="1000"/>
+
+Multi Factor Authentication
+
+<silence msec="1000"/>
+
+M.F.D.
+
+<silence msec="1000"/>
+
+Multi function Device
+
+<silence msec="1000"/>
+
+M.I.T.M.
+
+<silence msec="1000"/>
+
+Man in the Middle
+
+<silence msec="1000"/>
+
+M.M.S.
+
+<silence msec="1000"/>
+
+Multimedia Message Service
+
+<silence msec="1000"/>
+
+M.O.A.
+
+<silence msec="1000"/>
+
+Memorandum of Agreement
+
+<silence msec="1000"/>
+
+M.O.U.
+
+<silence msec="1000"/>
+
+Memorandum of Understanding
+
+<silence msec="1000"/>
+
+M.P.L.S.
+
+<silence msec="1000"/>
+
+Multi protocol Label Switching
+
+<silence msec="1000"/>
+
+M.S. Chap
+
+<silence msec="1000"/>
+
+Microsoft Challenge Handshake Authentication Protocol
+
+<silence msec="1000"/>
+
+M.S.P.
+
+<silence msec="1000"/>
+
+Managed Service Provider
+
+<silence msec="1000"/>
+
+M.T.B.F.
+
+<silence msec="1000"/>
+
+Mean Time Between Failures
+
+<silence msec="1000"/>
+
+M.T.T.F.
+
+<silence msec="1000"/>
+
+Mean Time to Failure
+
+<silence msec="1000"/>
+
+M.T.T.R.
+
+<silence msec="1000"/>
+
+Mean Time to Recover or Mean Time to Repair
+
+<silence msec="1000"/>
+
+M.T.U.
+
+<silence msec="1000"/>
+
+Maximum Transmission Unit
+
+<silence msec="1000"/>
+
+Nack
+
+<silence msec="1000"/>
+
+Network Access Control
+
+<silence msec="1000"/>
+
+Nat
+
+<silence msec="1000"/>
+
+Network Address Translation
+
+<silence msec="1000"/>
+
+N.D.A.
+
+<silence msec="1000"/>
+
+Non disclosure Agreement
+
+<silence msec="1000"/>
+
+N.F.C.
+
+<silence msec="1000"/>
+
+Near Field Communication
+
+<silence msec="1000"/>
+
+N.G.A.C.
+
+<silence msec="1000"/>
+
+Next Generation Access Control
+
+<silence msec="1000"/>
+
+Nids
+
+<silence msec="1000"/>
+
+Network based Intrusion Detection System
+
+<silence msec="1000"/>
+
+Nips
+
+<silence msec="1000"/>
+
+Network based Intrusion Prevention System
+
+<silence msec="1000"/>
+
+Nist
+
+<silence msec="1000"/>
+
+National Institute of Standards & Technology
+
+<silence msec="1000"/>
+
+N.T.F.S.
+
+<silence msec="1000"/>
+
+New Technology File System
+
+<silence msec="1000"/>
+
+N.T.L.M.
+
+<silence msec="1000"/>
+
+New Technology LAN Manager
+
+<silence msec="1000"/>
+
+N.T.P.
+
+<silence msec="1000"/>
+
+Network Time Protocol
+
+<silence msec="1000"/>
+
+O. Auth
+
+<silence msec="1000"/>
+
+Open Authorization
+
+<silence msec="1000"/>
+
+O.C.S.P.
+
+<silence msec="1000"/>
+
+Online Certificate Status Protocol
+
+<silence msec="1000"/>
+
+O.I.D.
+
+<silence msec="1000"/>
+
+Object Identifier
+
+<silence msec="1000"/>
+
+O.S.
+
+<silence msec="1000"/>
+
+Operating System
+
+<silence msec="1000"/>
+
+O.T.A.
+
+<silence msec="1000"/>
+
+Over The Air
+
+<silence msec="1000"/>
+
+O.V.A.L.
+
+<silence msec="1000"/>
+
+Open Vulnerability Assessment Language
+
+<silence msec="1000"/>
+
+P. 12
+
+<silence msec="1000"/>
+
+PKCS #12
+
+<silence msec="1000"/>
+
+P. 2 P.
+
+<silence msec="1000"/>
+
+Peer to Peer
+
+<silence msec="1000"/>
+
+P.a.a.S.
+
+<silence msec="1000"/>
+
+Platform as a Service
+
+<silence msec="1000"/>
+
+P.A.C.
+
+<silence msec="1000"/>
+
+Proxy Auto Configuration
+
+<silence msec="1000"/>
+
+P.A.M.
+
+<silence msec="1000"/>
+
+Pluggable Authentication Modules
+
+<silence msec="1000"/>
+
+P.A.P.
+
+<silence msec="1000"/>
+
+Password Authentication Protocol
+
+<silence msec="1000"/>
+
+Pat
+
+<silence msec="1000"/>
+
+Port Address Translation
+
+<silence msec="1000"/>
+
+P.B.K.D.F. 2
+
+<silence msec="1000"/>
+
+Password based Key Derivation Function 2
+
+<silence msec="1000"/>
+
+P.B.X.
+
+<silence msec="1000"/>
+
+Private Branch Exchange
+
+<silence msec="1000"/>
+
+P.C.A.P.
+
+<silence msec="1000"/>
+
+Packet Capture
+
+<silence msec="1000"/>
+
+P.E.A.P.
+
+<silence msec="1000"/>
+
+Protected Extensible Authentication Protocol
+
+<silence msec="1000"/>
+
+P.E.D.
+
+<silence msec="1000"/>
+
+Personal Electronic Device
+
+<silence msec="1000"/>
+
+P.E.M.
+
+<silence msec="1000"/>
+
+Privacy enhanced Electronic Mail
+
+<silence msec="1000"/>
+
+P.F.S.
+
+<silence msec="1000"/>
+
+Perfect Forward Secrecy
+
+<silence msec="1000"/>
+
+P.F.X.
+
+<silence msec="1000"/>
+
+Personal Exchange Format
+
+<silence msec="1000"/>
+
+P.G.P.
+
+<silence msec="1000"/>
+
+Pretty Good Privacy
+
+<silence msec="1000"/>
+
+P.H.I.
+
+<silence msec="1000"/>
+
+Personal Health Information
+
+<silence msec="1000"/>
+
+P.I.I.
+
+<silence msec="1000"/>
+
+Personally Identifiable Information
+
+<silence msec="1000"/>
+
+Piv
+
+<silence msec="1000"/>
+
+Personal Identity Verification
+
+<silence msec="1000"/>
+
+P.K.I.
+
+<silence msec="1000"/>
+
+Public Key Infrastructure
+
+<silence msec="1000"/>
+
+Poodle
+
+<silence msec="1000"/>
+
+Padding Oracle on Downgrade Legacy Encryption
+
+<silence msec="1000"/>
+
+Pop
+
+<silence msec="1000"/>
+
+Post Office Protocol
+
+<silence msec="1000"/>
+
+P.O.T.S.
+
+<silence msec="1000"/>
+
+Plain Old Telephone Service
+
+<silence msec="1000"/>
+
+P.P.P.
+
+<silence msec="1000"/>
+
+Point to Point Protocol
+
+<silence msec="1000"/>
+
+P.P.T.P.
+
+<silence msec="1000"/>
+
+Point to Point Tunneling Protocol
+
+<silence msec="1000"/>
+
+P.S.K.
+
+<silence msec="1000"/>
+
+Pre shared Key
+
+<silence msec="1000"/>
+
+P.T.Z.
+
+<silence msec="1000"/>
+
+Pan Tilt Zoom
+
+<silence msec="1000"/>
+
+R.A.
+
+<silence msec="1000"/>
+
+Recovery Agent
+
+<silence msec="1000"/>
+
+R.A.
+
+<silence msec="1000"/>
+
+Registration Authority
+
+<silence msec="1000"/>
+
+R.A.D.
+
+<silence msec="1000"/>
+
+Rapid Application Development
+
+<silence msec="1000"/>
+
+Radius
+
+<silence msec="1000"/>
+
+Remote Authentication Dial in User Server
+
+<silence msec="1000"/>
+
+Raid
+
+<silence msec="1000"/>
+
+Redundant Array of Inexpensive Disks
+
+<silence msec="1000"/>
+
+R.A.S.
+
+<silence msec="1000"/>
+
+Remote Access Server
+
+<silence msec="1000"/>
+
+Rat
+
+<silence msec="1000"/>
+
+Remote Access Trojan
+
+<silence msec="1000"/>
+
+R.B.A.C.
+
+<silence msec="1000"/>
+
+Role based Access Control
+
+<silence msec="1000"/>
+
+R.B.A.C.
+
+<silence msec="1000"/>
+
+Rule based Access Control
+
+<silence msec="1000"/>
+
+R.C. 4
+
+<silence msec="1000"/>
+
+Rivest Cipher version 4
+
+<silence msec="1000"/>
+
+R.D.P.
+
+<silence msec="1000"/>
+
+Remote Desktop Protocol
+
+<silence msec="1000"/>
+
+R.F.I.D.
+
+<silence msec="1000"/>
+
+Radio Frequency Identifier
+
+<silence msec="1000"/>
+
+R.I.P.E.M.D.
+
+<silence msec="1000"/>
+
+RACE Integrity Primitives Evaluation Message Digest
+
+<silence msec="1000"/>
+
+R.O.I.
+
+<silence msec="1000"/>
+
+Return on Investment
+
+<silence msec="1000"/>
+
+R.M.F.
+
+<silence msec="1000"/>
+
+Risk Management Framework
+
+<silence msec="1000"/>
+
+R.P.O.
+
+<silence msec="1000"/>
+
+Recovery Point Objective
+
+<silence msec="1000"/>
+
+R.S.A.
+
+<silence msec="1000"/>
+
+Rivest, Shamir, & Adleman
+
+<silence msec="1000"/>
+
+R.T.B.H.
+
+<silence msec="1000"/>
+
+Remotely Triggered Black Hole
+
+<silence msec="1000"/>
+
+R.T.O.
+
+<silence msec="1000"/>
+
+Recovery Time Objective
+
+<silence msec="1000"/>
+
+R.T.O.S.
+
+<silence msec="1000"/>
+
+Real time Operating System
+
+<silence msec="1000"/>
+
+R.T.P.
+
+<silence msec="1000"/>
+
+Real time Transport Protocol
+
+<silence msec="1000"/>
+
+S. Mime
+
+<silence msec="1000"/>
+
+Secure Multipurpose Internet Mail Extensions
+
+<silence msec="1000"/>
+
+S.a.a.S.
+
+<silence msec="1000"/>
+
+Software as a Service
+
+<silence msec="1000"/>
+
+Saml
+
+<silence msec="1000"/>
+
+Security Assertions Markup Language
+
+<silence msec="1000"/>
+
+San
+
+<silence msec="1000"/>
+
+Storage Area Network
+
+<silence msec="1000"/>
+
+S.A.N.
+
+<silence msec="1000"/>
+
+Subject Alternative Name
+
+<silence msec="1000"/>
+
+Scada
+
+<silence msec="1000"/>
+
+System Control and Data Acquisition
+
+<silence msec="1000"/>
+
+S.C.A.P.
+
+<silence msec="1000"/>
+
+Security Content Automation Protocol
+
+<silence msec="1000"/>
+
+S.C.E.P.
+
+<silence msec="1000"/>
+
+Simple Certificate Enrollment Protocol
+
+<silence msec="1000"/>
+
+S.C.P.
+
+<silence msec="1000"/>
+
+Secure Copy
+
+<silence msec="1000"/>
+
+Scuhsee
+
+<silence msec="1000"/>
+
+Small Computer System Interface
+
+<silence msec="1000"/>
+
+S.D.K.
+
+<silence msec="1000"/>
+
+Software Development Kit
+
+<silence msec="1000"/>
+
+S.D.L.C.
+
+<silence msec="1000"/>
+
+Software Development Life Cycle
+
+<silence msec="1000"/>
+
+S.D.L.M.
+
+<silence msec="1000"/>
+
+Software Development Life Cycle Methodology
+
+<silence msec="1000"/>
+
+S.D.N.
+
+<silence msec="1000"/>
+
+Software Defined Network
+
+<silence msec="1000"/>
+
+S.E.D.
+
+<silence msec="1000"/>
+
+Self encrypting Drive
+
+<silence msec="1000"/>
+
+S.E.H.
+
+<silence msec="1000"/>
+
+Structured Exception Handler
+
+<silence msec="1000"/>
+
+S.F.T.P.
+
+<silence msec="1000"/>
+
+Secured File Transfer Protocol
+
+<silence msec="1000"/>
+
+Shah
+
+<silence msec="1000"/>
+
+Secure Hashing Algorithm
+
+<silence msec="1000"/>
+
+S.H.T.T.P.
+
+<silence msec="1000"/>
+
+Secure Hypertext Transfer Protocol
+
+<silence msec="1000"/>
+
+Siem
+
+<silence msec="1000"/>
+
+Security Information and Event Management
+
+<silence msec="1000"/>
+
+S.I.M.
+
+<silence msec="1000"/>
+
+Subscriber Identity Module
+
+<silence msec="1000"/>
+
+S.L.A.
+
+<silence msec="1000"/>
+
+Service Level Agreement
+
+<silence msec="1000"/>
+
+S.L.E.
+
+<silence msec="1000"/>
+
+Single Loss Expectancy
+
+<silence msec="1000"/>
+
+S.M.B.
+
+<silence msec="1000"/>
+
+Server Message Block
+
+<silence msec="1000"/>
+
+S.M.S.
+
+<silence msec="1000"/>
+
+Short Message Service
+
+<silence msec="1000"/>
+
+S.M.T.P.
+
+<silence msec="1000"/>
+
+Simple Mail Transfer Protocol
+
+<silence msec="1000"/>
+
+S.M.T.P.S.
+
+<silence msec="1000"/>
+
+Simple Mail Transfer Protocol Secure
+
+<silence msec="1000"/>
+
+S.N.M.P.
+
+<silence msec="1000"/>
+
+Simple Network Management Protocol
+
+<silence msec="1000"/>
+
+Soap
+
+<silence msec="1000"/>
+
+Simple Object Access Protocol
+
+<silence msec="1000"/>
+
+S.o.C.
+
+<silence msec="1000"/>
+
+System on Chip
+
+<silence msec="1000"/>
+
+S.P.F.
+
+<silence msec="1000"/>
+
+Sender Policy Framework
+
+<silence msec="1000"/>
+
+Spim
+
+<silence msec="1000"/>
+
+Spam over Internet Messaging
+
+<silence msec="1000"/>
+
+S.P.o.F.
+
+<silence msec="1000"/>
+
+Single Point of Failure
+
+<silence msec="1000"/>
+
+S.Q.L. or See Quill
+
+<silence msec="1000"/>
+
+Structured Query Language
+
+<silence msec="1000"/>
+
+S.R.T.P.
+
+<silence msec="1000"/>
+
+Secure Real Time Protocol
+
+<silence msec="1000"/>
+
+S.S.D.
+
+<silence msec="1000"/>
+
+Solid State Drive
+
+<silence msec="1000"/>
+
+S.S.H.
+
+<silence msec="1000"/>
+
+Secure Shell
+
+<silence msec="1000"/>
+
+S.S.I.D.
+
+<silence msec="1000"/>
+
+Service Set Identifier
+
+<silence msec="1000"/>
+
+S.S.L.
+
+<silence msec="1000"/>
+
+Secure Sockets Layer
+
+<silence msec="1000"/>
+
+S.S.O.
+
+<silence msec="1000"/>
+
+Single Sign on
+
+<silence msec="1000"/>
+
+S.T.P.
+
+<silence msec="1000"/>
+
+Shielded Twisted Pair
+
+<silence msec="1000"/>
+
+Tac Acks Plus
+
+<silence msec="1000"/>
+
+Terminal Access Controller Access Control System Plus
+
+<silence msec="1000"/>
+
+T.C.P. I.P.
+
+<silence msec="1000"/>
+
+Transmission Control Protocol Internet Protocol
+
+<silence msec="1000"/>
+
+T.G.T.
+
+<silence msec="1000"/>
+
+Ticket Granting Ticket
+
+<silence msec="1000"/>
+
+T.K.I.P.
+
+<silence msec="1000"/>
+
+Temporal Key Integrity Protocol
+
+<silence msec="1000"/>
+
+T.L.S.
+
+<silence msec="1000"/>
+
+Transport Layer Security
+
+<silence msec="1000"/>
+
+T.O.T.P.
+
+<silence msec="1000"/>
+
+Time based One time Password
+
+<silence msec="1000"/>
+
+T.P.M.
+
+<silence msec="1000"/>
+
+Trusted Platform Module
+
+<silence msec="1000"/>
+
+T.S.I.G.
+
+<silence msec="1000"/>
+
+Transaction Signature
+
+<silence msec="1000"/>
+
+U.A.T.
+
+<silence msec="1000"/>
+
+User Acceptance Testing
+
+<silence msec="1000"/>
+
+U.A.V.
+
+<silence msec="1000"/>
+
+Unmanned Aerial Vehicle
+
+<silence msec="1000"/>
+
+U.D.P.
+
+<silence msec="1000"/>
+
+User Datagram Protocol
+
+<silence msec="1000"/>
+
+U.E.F.I.
+
+<silence msec="1000"/>
+
+Unified Extensible Firmware Interface
+
+<silence msec="1000"/>
+
+U.P.S.
+
+<silence msec="1000"/>
+
+Uninterruptable Power Supply
+
+<silence msec="1000"/>
+
+U.R.I.
+
+<silence msec="1000"/>
+
+Uniform Resource Identifier
+
+<silence msec="1000"/>
+
+U.R.L.
+
+<silence msec="1000"/>
+
+Universal Resource Locator
+
+<silence msec="1000"/>
+
+U.S.B.
+
+<silence msec="1000"/>
+
+Universal Serial Bus
+
+<silence msec="1000"/>
+
+U.S.B.
+
+<silence msec="1000"/>
+
+OTG USB On The Go
+
+<silence msec="1000"/>
+
+U.T.M.
+
+<silence msec="1000"/>
+
+Unified Threat Management
+
+<silence msec="1000"/>
+
+U.T.P.
+
+<silence msec="1000"/>
+
+Unshielded Twisted Pair
+
+<silence msec="1000"/>
+
+V.D.E.
+
+<silence msec="1000"/>
+
+Virtual Desktop Environment
+
+<silence msec="1000"/>
+
+V.D.I.
+
+<silence msec="1000"/>
+
+Virtual Desktop Infrastructure
+
+<silence msec="1000"/>
+
+V. Lan
+
+<silence msec="1000"/>
+
+Virtual Local Area Network
+
+<silence msec="1000"/>
+
+V.L.S.M.
+
+<silence msec="1000"/>
+
+Variable Length Subnet Masking
+
+<silence msec="1000"/>
+
+V.M.
+
+<silence msec="1000"/>
+
+Virtual Machine
+
+<silence msec="1000"/>
+
+V.o.I.P.
+
+<silence msec="1000"/>
+
+Voice over IP
+
+<silence msec="1000"/>
+
+V.P.N.
+
+<silence msec="1000"/>
+
+Virtual Private Network
+
+<silence msec="1000"/>
+
+V.T.C.
+
+<silence msec="1000"/>
+
+Video Teleconferencing
+
+<silence msec="1000"/>
+
+Waf
+
+<silence msec="1000"/>
+
+Web Application Firewall
+
+<silence msec="1000"/>
+
+Wap
+
+<silence msec="1000"/>
+
+Wireless Access Point
+
+<silence msec="1000"/>
+
+Wepp
+
+<silence msec="1000"/>
+
+Wired Equivalent Privacy
+
+<silence msec="1000"/>
+
+Wids
+
+<silence msec="1000"/>
+
+Wireless Intrusion Detection System
+
+<silence msec="1000"/>
+
+Wips
+
+<silence msec="1000"/>
+
+Wireless Intrusion Prevention System
+
+<silence msec="1000"/>
+
+Worm
+
+<silence msec="1000"/>
+
+Write Once Read Many
+
+<silence msec="1000"/>
+
+W.P.A.
+
+<silence msec="1000"/>
+
+WiFi Protected Access
+
+<silence msec="1000"/>
+
+W.P.A. 2
+
+<silence msec="1000"/>
+
+WiFi Protected Access 2
+
+<silence msec="1000"/>
+
+W.P.S.
+
+<silence msec="1000"/>
+
+WiFi Protected Setup
+
+<silence msec="1000"/>
+
+W.T.L.S.
+
+<silence msec="1000"/>
+
+Wireless TLS
+
+<silence msec="1000"/>
+
+X.M.L.
+
+<silence msec="1000"/>
+
+Extensible Markup Language
+
+<silence msec="1000"/>
+
+X.O.R.
+
+<silence msec="1000"/>
+
+Exclusive Or
+
+<silence msec="1000"/>
+
+X.S.R.F.
+
+<silence msec="1000"/>
+
+Cross site Request Forgery
+
+<silence msec="1000"/>
+
+X.S.S.
+
+<silence msec="1000"/>
+
+Cross site Scripting
+
+<silence msec="1000"/>
+
+End of acronyms

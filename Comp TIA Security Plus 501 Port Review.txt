@@ -1,0 +1,253 @@
+﻿Comp TIA Security Plus 501 Port Review
+
+<silence msec="1000"/>
+
+Which file transport protocol uses ports 20 and 21?
+
+<silence msec="1000"/>
+
+FTP, the File Transport Protocol, uses TCP ports 20 and 21.
+
+<silence msec="1000"/>
+
+Which file transport protocols use port 22?
+
+<silence msec="1000"/>
+
+SSH, Secure Shell, and SFTP, the Secure File Transport Protocol, and SCP, Secure Copy, all use TCP port 22.
+
+<silence msec="1000"/>
+
+Which remote access protocol uses port 23?
+
+<silence msec="1000"/>
+
+Telnet uses TCP port 23.
+
+<silence msec="1000"/>
+
+Which email protocol uses port 25?
+
+<silence msec="1000"/>
+
+SMTP, the Simple Mail Transport Protocol, uses TCP port 25.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 47?
+
+<silence msec="1000"/>
+
+GRE, the Generic Routing Protocol, uses UDP port 47.
+
+<silence msec="1000"/>
+
+Which remote access protocol uses port 49?
+
+<silence msec="1000"/>
+
+Tac Acks Plus, the Terminal Access Controller, Access Control System, uses TCP port 49.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 50 and 51?
+
+<silence msec="1000"/>
+
+ESP, IP Sec's Encapsulating Security Payload, uses TCP and UDP ports 50 and AH, IP Sec's Authentication Header, uses TCP and USP ports 51.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 53?
+
+<silence msec="1000"/>
+
+DNS, Domain Name System, uses both TCP and UDP port 53.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 67 and 68?
+
+<silence msec="1000"/>
+
+DHCP, the Dynamic Host Configuration Protocol, uses both UDP ports 67 and 68.
+
+<silence msec="1000"/>
+
+Which file transport protocol uses port 69?
+
+<silence msec="1000"/>
+
+TFTP, the Trivial File Transport Protocol, uses UDP port 69.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 80?
+
+<silence msec="1000"/>
+
+HTTP, the Hypertext Transfer Protocol, uses TCP port 80.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 88?
+
+<silence msec="1000"/>
+
+Kerberos uses both TCP and UDP port 88
+
+<silence msec="1000"/>
+
+Which email protocol uses port 110?
+
+<silence msec="1000"/>
+
+POP3, the Post Office Protocol version 3, uses TCP port 110.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 119?
+
+<silence msec="1000"/>
+
+NNTP, the Network News Transfer Protocol, uses TCP port 119.
+
+<silence msec="1000"/>
+
+Which common protocol uses ports 137, 138 and 139?
+
+<silence msec="1000"/>
+
+Net Bye O's uses UDP port ports 137 and 138, and TCP port 139.
+
+<silence msec="1000"/>
+
+Which email protocol uses port 143?
+
+<silence msec="1000"/>
+
+IMAP4, the Internet message access protocol version 4, uses TCP port 143.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 161 and 162?
+
+<silence msec="1000"/>
+
+SNMP, the Simple Network Management Protocol, uses UDP port 161 and 162.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 389?
+
+<silence msec="1000"/>
+
+L Dap, the Lightweight Directory Access Protocol, uses both TCP and UDP port 389.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 443?
+
+<silence msec="1000"/>
+
+HTTPS, the Hypertext Transfer Protocol Secure, uses TCP port 443.
+
+<silence msec="1000"/>
+
+Which remote access protocol uses port 443?
+
+<silence msec="1000"/>
+
+SSL VPN, the Secure Sockets Layer virtual private network, uses TCP port 443.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 445?
+
+<silence msec="1000"/>
+
+SMB, Server Message Block, uses TCP and UDP port 445.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 500?
+
+<silence msec="1000"/>
+
+Internet Key Exchange uses UDP port 500.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 636?
+
+<silence msec="1000"/>
+
+L Dap Secure uses TCP port 636.
+
+<silence msec="1000"/>
+
+Which file transport protocol uses port 989 and 990?
+
+<silence msec="1000"/>
+
+FTPS, the File Transport Protocol Secure, uses TCP port 989 and 990.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 1293?
+
+<silence msec="1000"/>
+
+IP Sec uses TCP and UDP port 1293.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 1433?
+
+<silence msec="1000"/>
+
+MS Sequel uses TCP port 1433.
+
+<silence msec="1000"/>
+
+Which remote access protocol uses port 1701?
+
+<silence msec="1000"/>
+
+L2TP, the Layer 2 Tunneling Protocol, uses UDP port 1701.
+
+<silence msec="1000"/>
+
+Which remote access protocol uses port 1723?
+
+<silence msec="1000"/>
+
+PPTP, the Point-to-Point Tunneling Protocol, uses both TCP and UDP port 1723.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 1812?
+
+<silence msec="1000"/>
+
+RADIUS uses UDP port 1812.
+
+<silence msec="1000"/>
+
+Which common protocol uses port 3306?
+
+<silence msec="1000"/>
+
+My Sequel uses TCP port 3306.
+
+<silence msec="1000"/>
+
+Which remote access protocol uses port 3389?
+
+<silence msec="1000"/>
+
+RDP, the Remote Desktop Protocol, uses both TCP and UDP port 3389.
+
+<silence msec="1000"/>
+
+End of port review
